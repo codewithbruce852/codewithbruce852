@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bruce Karikoga
 
-**Python Automation Developer** based in Harare, Zimbabwe 🇿🇼
+**Python Automation Developer** based in Harare, Zimbabwe zw
 
 I build reliable Python tools that handle data analysis, Excel automation, web scraping, and automated reporting — turning hours of manual work into one command.
 
